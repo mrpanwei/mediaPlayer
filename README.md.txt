@@ -1,0 +1,1 @@
+用.net自带的media player 来播放视频和图片

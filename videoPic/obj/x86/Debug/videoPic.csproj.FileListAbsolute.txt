@@ -1,0 +1,13 @@
+D:\WorkPlace\corporation\videoPic\videoPic\bin\Debug\videoPic.exe
+D:\WorkPlace\corporation\videoPic\videoPic\bin\Debug\videoPic.pdb
+D:\WorkPlace\corporation\videoPic\videoPic\bin\Debug\Interop.WMPLib.dll
+D:\WorkPlace\corporation\videoPic\videoPic\bin\Debug\AxInterop.WMPLib.dll
+D:\WorkPlace\corporation\videoPic\videoPic\obj\x86\Debug\Interop.WMPLib.dll
+D:\WorkPlace\corporation\videoPic\videoPic\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\WorkPlace\corporation\videoPic\videoPic\obj\x86\Debug\videoPic.csproj.ResolveComReference.cache
+D:\WorkPlace\corporation\videoPic\videoPic\obj\x86\Debug\videoPic.Form1.resources
+D:\WorkPlace\corporation\videoPic\videoPic\obj\x86\Debug\videoPic.Properties.Resources.resources
+D:\WorkPlace\corporation\videoPic\videoPic\obj\x86\Debug\videoPic.csproj.GenerateResource.Cache
+D:\WorkPlace\corporation\videoPic\videoPic\obj\x86\Debug\videoPic.exe
+D:\WorkPlace\corporation\videoPic\videoPic\obj\x86\Debug\videoPic.pdb
+D:\WorkPlace\corporation\videoPic\videoPic\bin\Debug\videoPic.exe.config
